@@ -1,6 +1,8 @@
 ## Hi there, I'm Andrea
 
 [![Linkedin Badge](https://img.shields.io/badge/Andrea_Mangione-1da1F2?style=flat&logo=Linkedin)](https://www.linkedin.com/in/andrea-mangione-592902156/ "Connect on LinkedIn")
+[![Gmail](https://img.shields.io/badge/andrea@mangione.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrea@mangione.dev )
+
 
 <a href="https://andrea.mangione.dev/">
 <img src="./stack.png" alt="My Stack" align="right" height="200"/>
