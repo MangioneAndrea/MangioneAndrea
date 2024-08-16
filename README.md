@@ -7,7 +7,7 @@
 <a href="https://andrea.mangione.dev/">
 <img src="./stack.png" alt="My Stack" align="right" height="200"/>
 </a>
-I'm a 4rd-year graduate student at the university of applied science in Brugg-Windisch Switzerland, pursuing a Bachelor in Computer Science.
+I'm a 4th-year graduate student at the university of applied science in Brugg-Windisch Switzerland, pursuing a Bachelor in Computer Science.
 
 If you ever want to collaborate, do not hesitate to contact me :D.
 
